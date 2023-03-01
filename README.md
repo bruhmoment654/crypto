@@ -152,10 +152,11 @@ Authorization :  Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwiaWF0IjoxNjc3NTk
 }
 ```
 response:
-
+```
 {
     "BTC": 5.075001203608029
 }
+```
 
 в сумме на кошельках было 3BTC, около 10000TON, 141000RUB
 
